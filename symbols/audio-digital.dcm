@@ -1,0 +1,14 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CS4344
+D DAC, Audio 24 bit 192k I²S 10-TSSOP
+K DAC, Audio
+F https://d3uzseaevmutz1.cloudfront.net/pubs/proDatasheet/CS4344-45-48_F2.pdf
+$ENDCMP
+#
+$CMP CS5343
+D IC ADC 24BIT SRL 96KHZ 10-TSSOP
+K ADC, Audio
+$ENDCMP
+#
+#End Doc Library
