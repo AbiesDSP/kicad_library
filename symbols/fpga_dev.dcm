@@ -4,4 +4,9 @@ $CMP CMOD_S7
 D Spartan 7 FPGA Development Board
 $ENDCMP
 #
+$CMP arty_a7
+D Artix-7 FPGA Development Board
+K Arty, Artix
+$ENDCMP
+#
 #End Doc Library

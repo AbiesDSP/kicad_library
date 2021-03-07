@@ -1,3 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP OPA1671
+D 13-MHz, Low-Noise, Rail-to-Rail, Audio Operational Amplifier
+K OpAmp Rail-to-rail Output Single Audio
+F https://www.onsemi.com/pub/Collateral/NCS20071-D.PDF
+$ENDCMP
+#
 #End Doc Library
